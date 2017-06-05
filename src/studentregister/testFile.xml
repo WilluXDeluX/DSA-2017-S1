@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="students.xsd">
+    <student studentID="" gender="M">
+        <firstname></firstname>
+        <lastname></lastname>
+        <birthday day="1" month="1" year="1990"/>
+    </student>
+    <student studentID="100010" gender="M">
+        <firstname>William</firstname>
+        <lastname>Xu</lastname>
+        <birthday day="6" month="4" year="1991"/>
+    </student>
+    <student studentID="2000" gender="M">
+        <firstname></firstname>
+        <lastname></lastname>
+        <birthday day="1" month="1" year="1990"/>
+    </student>
+</students>
